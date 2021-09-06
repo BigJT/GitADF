@@ -1,0 +1,9 @@
+{
+	"name": "jtr-test-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7292cea1-42bc-4f5f-812f-cb1b8ce10b45",
+		"tenantId": "953b0f83-1ce6-45c3-82c9-1d847e372339"
+	}
+}
